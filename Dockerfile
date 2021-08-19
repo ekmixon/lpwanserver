@@ -1,4 +1,4 @@
-FROM node:10.15
+FROM node:10.24.0
 
 # set working directory
 WORKDIR /usr/src
